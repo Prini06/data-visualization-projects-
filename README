@@ -1,0 +1,58 @@
+# Data Visualization Dashboard Projects
+
+This repository showcases dashboards created during my Data Analytics internship and learning journey using **Excel**, **Power BI**, and **Tableau**.
+
+---
+
+## 📊 Project 1: IPL Centuries Dashboard (Excel)
+
+**Tool:** Microsoft Excel  
+**Skills Used:** Pivot Tables, VLOOKUP, HLOOKUP, Consolidate, Conditional Formatting  
+**Highlights:**
+- Interactive Slicers
+- Charts: Bar, Line, Donut
+- Player and team performance overview
+
+📁 File: `ipl_dashboard.xlsx`  
+🖼️ Preview:  
+![IPL Dashboard](./IPL DASHBOARD.png)
+
+---
+
+## 📈 Project 2: Netflix Dashboard (Tableau)
+
+**Tool:** Tableau  
+**Highlights:**
+- Genre and release trends
+- Country-wise Netflix content distribution
+- Donut & Bar Charts
+
+📁 File: `netflix_dashboard.twbx`  
+🖼️ Preview:  
+![Netflix Dashboard](./NETFLIX DASHBOARD.png)
+
+---
+
+## 📉 Project 3: Profit Dashboard (Power BI)
+
+**Tool:** Power BI  
+**Highlights:**
+- Sales & Profit by Region, Category, Segment
+- Multiple chart types: Line, Treemap, Bar, Donut
+
+📁 File: `profit_dashboard.pbix`
+
+---
+
+## 🚀 Tools & Skills
+
+- **Tools:** Excel, Power BI, Tableau  
+- **Skills:** Data Cleaning, Pivoting, VLOOKUP, Visual Design  
+- **Languages:** SQL (basic), Python (basic)
+
+---
+
+## 👩‍💻 About Me
+
+I’m a recent Computer Science graduate currently completing a Data Analytics internship. Passionate about visualizing data and solving real-world problems. Open to internship or entry-level roles in Data Analytics or BI.
+
